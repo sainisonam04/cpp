@@ -4,7 +4,7 @@ int main()
 {system("cls");
 int d;
 float c,f;
-cout<<"     *********////////////Welcome to Temperature convertion\\\\\\\\\******* ";
+cout<<"     *********>>>>>>>>>>>>>>Welcome to Temperature convertion<<<<<<<<******* ";
 cout<<"\n 1.Farhenheit to Celsius";
 cout<<"\n 2.Clesius to Farhenheit";
 cout<<"\n wanna know how warmer is today in other scale?"<<"\n just choose the your convertion and POOF!, you have it"<<"\n So, picked it up, uh";
