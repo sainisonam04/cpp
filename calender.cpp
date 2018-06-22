@@ -21,7 +21,5 @@ switch (c==a)
  case 7:cout<<"\n sunday";
  break;
  default:cout<<"\n worng no.";
- }
- getch ();
- return 0;
+}
  }
